@@ -65,7 +65,7 @@ This application is built with a **Full-Stack Client-Server architecture** confo
 
 
 The server starts up immediately on port `3000`, serving both the static React build and live Express endpoints.
-
+we are working on adding a database to this and will come out soon
 
 
 ---
